@@ -51,4 +51,4 @@ streamlit run app.py
 
 This project is licensed under the MIT License.
 
-Created with ❤️ by [*Sujal Singh Rajput*](https://github.com/Sujal85526).
+Created with ❤️ by [*Sujal Singh Rajput*](https://github.com/Sujal85526/Stock-Predication-Dashboard).
